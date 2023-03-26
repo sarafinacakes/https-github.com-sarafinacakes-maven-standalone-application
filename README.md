@@ -1,1 +1,1 @@
-# https-github.com-sarafinacakes-maven-standalone-application
+maven-standalone-application
